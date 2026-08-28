@@ -1,4 +1,4 @@
-**pycache/**
+**pycache**/
 *.pyc
 .vscode/
 .env
