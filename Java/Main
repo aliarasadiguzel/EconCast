@@ -1,7 +1,0 @@
-public class Main {
-    public static void main(String[] args) {
-        int x=7;
-        double y=3.0;
-        char z='A';
-    }   
-}
